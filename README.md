@@ -1,5 +1,7 @@
 # Pathogen Contextual Data Specification
-UNDER DEVELOPMENT: Metadata template for genomic surveillance of bacterial pathogens for vaccine and AMR purposes
+_UNDER DEVELOPMENT_
+
+Metadata template for genomic surveillance of bacterial pathogens for vaccine and AMR purposes
 
 ## Rationale
 Contextual metadata is crucial for effective genomic surveillance in public health as it provides valuable information about the
@@ -15,7 +17,7 @@ deployment in relation to a range of pathogens, including those with current vac
 Streptococcus, pertussis, Neisseria meningitidis) and those in various stages of vaccine development (Klebsiella, Shigella, non-typhoidal
 Salmonella, etc).
 
-THIS SPECIFICATION IS STILL UNDER ACTIVE DEVELOPMENT
+_THIS SPECIFICATION IS STILL UNDER ACTIVE DEVELOPMENT_
 
 ## Approach
 This framework incorporates fields proposed in the [PHA4GE Minimal Pathogen Agnostic Contextual Data Specification](https://github.com/pha4ge/minimal-pathogen-agnostic-contextual-data-specification) and [PHA4GE QC tags](https://github.com/pha4ge/contextual_data_QC_tags), and maps to [compulsory fields for INSDC submissions](https://submit.ncbi.nlm.nih.gov). We also draw on the approach to _purpose of sampling_ taken by the [PHA4GE SARS-CoV-2 Contextual Data Specification](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification). As with the PHA4GE templates, wherever possible we use terms from the [GenEpiO ontology](https://genepio.org/).
