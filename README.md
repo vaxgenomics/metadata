@@ -1,7 +1,5 @@
-# Pathogen Contextual Data Specification
+# Contextual metadata specification for genomic surveillance of bacterial pathogens for vaccine and AMR purposes
 _UNDER DEVELOPMENT_
-
-Metadata template for genomic surveillance of bacterial pathogens for vaccine and AMR purposes
 
 ## Rationale
 Contextual metadata is crucial for effective genomic surveillance in public health as it provides valuable information about the
