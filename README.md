@@ -24,6 +24,7 @@ This framework incorporates fields proposed in the [PHA4GE Minimal Pathogen Agno
 
 This template is intended for dual use - to facilitate data collection and to enable data sharing. Strength of requirements will vary by use case (e.g. some fields are required for data collection but not for data sharing). Differential requirements are indicated by use case in the template. Users may filter based on intended use (data collection or data sharing). Care should be taken to ensure that metadata provided do not result in sharing of patient identifiable information. In addition, no metadata should be shared without relevant ethical approvals.
 
+A template for data entry in Google Sheets is available [here](https://docs.google.com/spreadsheets/d/1U2io0XkCf6a0SkQe0lp76POlIY2gb-mPb9FnZV6C2nw/edit?usp=sharing).
 
 ## Specification
 | Ontology ID                                     | Required for data collection?  | Required for data sharing? |Definition                                                                                  | Guidance                                                                                                   | Value Type                           | Benefits                                                     | Considerations & Privacy                                | Linkage(s) with other metadata templates         |
