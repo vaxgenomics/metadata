@@ -15,7 +15,9 @@ deployment in relation to a range of pathogens, including those with current vac
 Streptococcus, pertussis, _Neisseria meningitidis_) and those in various stages of vaccine development (_Klebsiella_, Shigella, non-typhoidal
 _Salmonella_, etc).
 
-_THIS SPECIFICATION IS STILL UNDER ACTIVE DEVELOPMENT_
+_THIS SPECIFICATION IS STILL UNDER ACTIVE DEVELOPMENT._ 
+
+_Please feel free to provide suggestions and feedback via the [issues tracker](https://github.com/vaxgenomics/metadata/issues)._
 
 ## Approach
 This framework incorporates fields proposed in the [PHA4GE Minimal Pathogen Agnostic Contextual Data Specification](https://github.com/pha4ge/minimal-pathogen-agnostic-contextual-data-specification) and [PHA4GE QC tags](https://github.com/pha4ge/contextual_data_QC_tags), and maps to [compulsory fields for INSDC submissions](https://submit.ncbi.nlm.nih.gov). We also draw on the approach to _purpose of sampling_ taken by the [PHA4GE SARS-CoV-2 Contextual Data Specification](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification). As with the PHA4GE templates, wherever possible we use terms from the [GenEpiO ontology](https://genepio.org/).
@@ -23,6 +25,10 @@ This framework incorporates fields proposed in the [PHA4GE Minimal Pathogen Agno
 This template is intended for dual use - to facilitate data collection and to enable data sharing. Strength of requirements will vary by use case (e.g. some fields are required for data collection but not for data sharing). Differential requirements are indicated by use case in the template. Users may filter based on intended use (data collection or data sharing). Care should be taken to ensure that metadata provided do not result in sharing of patient identifiable information. In addition, no metadata should be shared without relevant ethical approvals.
 
 A template for data entry in Google Sheets is available [here](https://docs.google.com/spreadsheets/d/1U2io0XkCf6a0SkQe0lp76POlIY2gb-mPb9FnZV6C2nw/edit?usp=sharing).
+
+## Contributors
+
+Initial contributors include Megan Carey, Zoe Dyson, Elita Jauneikaite, Stephanie Lo, Dorota Jamrozy, James Meiring, Odile Harrison, Mary Maranga, Kevin Scott, Roisin Ure, Andrew Preston, Nicholas Feasey, John Crump, Kate Baker, Kelly Wyres, Kat Holt.
 
 ## Specification
 | Ontology ID                                     | Required for data collection?  | Required for data sharing? |Definition                                                                                  | Guidance                                                                                                   | Value Type                           | Benefits                                                     | Considerations & Privacy                                | Linkage(s) with other metadata templates         |
