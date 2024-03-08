@@ -26,6 +26,8 @@ This template is intended for dual use - to facilitate data collection and to en
 
 A template for data entry in Google Sheets is available [here](https://docs.google.com/spreadsheets/d/1U2io0XkCf6a0SkQe0lp76POlIY2gb-mPb9FnZV6C2nw/edit?usp=sharing).
 
+Note that antibiogram data is not included here but can be submitted as BioSample metadata using [this template](https://www.ncbi.nlm.nih.gov/biosample/docs/antibiogram/)
+
 ## Contributors
 
 Initial contributors include Megan Carey, Zoe Dyson, Elita Jauneikaite, Stephanie Lo, Dorota Jamrozy, James Meiring, Odile Harrison, Mary Maranga, Kevin Scott, Roisin Ure, Andrew Preston, Nicholas Feasey, John Crump, Kate Baker, Kelly Wyres, Kat Holt.
